@@ -14,11 +14,11 @@ const Contact = () => {
                 <p className='text-lg'>LinkedIn</p>
             </a>
             <a href="https://github.com/Harshith-Teja" target='_blank' aria-label='Github'>
-                <img src="../../contact Logos/Github-Logo.png" alt="Github" className='h-12 w-20 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
+                <img src="../../contact Logos/GitHub-Logo.png" alt="Github" className='h-12 w-20 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
                 <p className='text-lg'>Github</p>
             </a>
             <a href="https://leetcode.com/u/harshithtejadontoju/" target='_blank' aria-label='Leetcode'>
-                <img src="../../contact Logos/Leetcode-Logo.webp" alt="Leetcode" className='h-12 w-12 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
+                <img src="../../contact Logos/Leetcode-logo.webp" alt="Leetcode" className='h-12 w-12 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
                 <p className='text-lg'>Leetcode</p>
             </a>
         </div>
