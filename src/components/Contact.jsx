@@ -7,19 +7,19 @@ const Contact = () => {
         <h2 className='text-3xl font-semibold'>GET IN TOUCH</h2>
         <div className='flex gap-8 justify-center items-center'>
             <a href="mailto:harshithtejadontoju@gmail.com" target='_blank' aria-label='emailId'>
-                <img src="../../public/Contact Logos/Email-Logo.png" alt="EmailId" className='h-12 w-12 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
+                <img src="../../Contact Logos/Email-Logo.png" alt="EmailId" className='h-12 w-12 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
                 <p className='text-lg'>email</p>
             </a>
             <a href="https://www.linkedin.com/in/harshith-teja-98ab5624b/" target='_blank' aria-label='LinkedIn'>
-                <img src="../../public/Contact Logos/Linkedin_Logo.png" alt="LinkedIn" className='h-12 w-16 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
+                <img src="../../Contact Logos/Linkedin_Logo.png" alt="LinkedIn" className='h-12 w-16 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
                 <p className='text-lg'>LinkedIn</p>
             </a>
             <a href="https://github.com/Harshith-Teja" target='_blank' aria-label='Github'>
-                <img src="../../public/Contact Logos/Github-Logo.png" alt="Github" className='h-12 w-20 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
+                <img src="../../Contact Logos/Github-Logo.png" alt="Github" className='h-12 w-20 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
                 <p className='text-lg'>Github</p>
             </a>
             <a href="https://leetcode.com/u/harshithtejadontoju/" target='_blank' aria-label='Leetcode'>
-                <img src="../../public/Contact Logos/Leetcode-Logo.webp" alt="Leetcode" className='h-12 w-12 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
+                <img src="../../Contact Logos/Leetcode-Logo.webp" alt="Leetcode" className='h-12 w-12 rounded-full object-contain hover:scale-110 transition-all duration-200 ease-in'/>
                 <p className='text-lg'>Leetcode</p>
             </a>
         </div>
