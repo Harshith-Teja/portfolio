@@ -16,11 +16,10 @@ const Intro = () => {
         needed.
       </p>
       <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
-        Currently working in a service-based company, I am driven by a strong
-        desire to transition into product-based companies where I can contribute
-        to and learn from cutting-edge software development practices. My
-        passion lies in understanding how large-scale systems are built,
-        deployed, maintained, and scaled to serve millions of users worldwide.
+        Currently looking for opportunities where I can contribute to and learn
+        from cutting-edge software development practices. My passion lies in
+        understanding how large-scale systems are built, deployed, maintained,
+        and scaled to serve millions of users worldwide.
       </p>
       <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         Beyond development, I continuously refine my DSA skills and explore
@@ -33,7 +32,7 @@ const Intro = () => {
 
       <div className="p-6 flex max-w-[70%] m-auto justify-center items-center">
         <a
-          href="https://drive.google.com/file/d/14xaorvndWsDF0MK8vqDt8DOy_n04Hd35/view?usp=sharing"
+          href="https://drive.google.com/file/d/17hSWFhm-ARZS_HLnIi_WorpbAkRc3EgX/view?usp=sharing"
           target="_blank"
           aria-label="resume"
         >
