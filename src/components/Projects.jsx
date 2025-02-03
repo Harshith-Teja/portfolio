@@ -11,10 +11,7 @@ const Projects = () => {
         <section className="w-full px-8 pb-4 h-auto rounded-3xl bg-zinc-700 text-cyan-50 dark:bg-stone-200 dark:text-zinc-900  hover:scale-105 transition-all ease-in-out duration-300 hover:border-4 hover:border-indigo-500 hover:shadow-2xl hover:shadow-violet-500">
           <div className="flex justify-center items-center gap-2 p-4">
             <h2 className="text-2xl font-semibold">Blog Smith</h2>
-            <a
-              href="https://movie-api-react-frontend.onrender.com"
-              target="_blank"
-            >
+            <a href="https://blog-smith-fe.onrender.com" target="_blank">
               <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
             </a>
           </div>
