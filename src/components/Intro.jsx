@@ -23,17 +23,17 @@ const Intro = () => {
         deployed, maintained, and scaled to serve millions of users worldwide.
       </p>
       <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
-        Beyond coding, I continuously refine my DSA skills and explore advanced
-        concepts in web development to deepen my expertise. I firmly believe in
-        learning by building, and I push myself every day to improve, tackle
-        challenges, and grow as a software engineer. Looking to connect with
-        like-minded engineers, mentors, and teams building impactful software at
-        scale. Let’s build something great!
+        Beyond development, I continuously refine my DSA skills and explore
+        advanced concepts in web development to deepen my expertise. I firmly
+        believe in learning by building, and I push myself every day to improve,
+        tackle challenges, and grow as a software engineer. Looking to connect
+        with like-minded engineers, mentors, and teams building impactful
+        software at scale. Let’s build something great!
       </p>
 
       <div className="p-6 flex max-w-[70%] m-auto justify-center items-center">
         <a
-          href="https://drive.google.com/file/d/1aFSgGCbUrdk7bELyn88iIlOo9f9k0NOv/view?usp=sharing"
+          href="https://drive.google.com/file/d/14xaorvndWsDF0MK8vqDt8DOy_n04Hd35/view?usp=sharing"
           target="_blank"
           aria-label="resume"
         >
