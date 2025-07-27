@@ -37,6 +37,36 @@ const Projects = () => {
             </li>
           </ul>
         </section>
+
+        <section className="w-full px-8 pb-4 h-auto rounded-3xl bg-zinc-700 text-cyan-50 dark:bg-stone-200 dark:text-zinc-900 hover:scale-105 transition-all ease-in-out duration-300 hover:border-4 hover:border-indigo-500 hover:shadow-2xl hover:shadow-violet-500">
+          <div className="flex justify-center items-center gap-1 p-4">
+            <h2 className="text-2xl font-semibold">Hola Chat App</h2>
+            <a href="https://hola-chat-9o30.onrender.com/" target="_blank">
+              <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
+            </a>
+          </div>
+          <ul className="list-disc text-left">
+            <li>
+              Developed a modern, real-time chat application supporting direct
+              messages and channel-based communication.
+            </li>
+            <li>
+              Integrated Socket.io for bi-directional real-time communication,
+              enabling instant message delivery and live chat updates.
+            </li>
+            <li>
+              Implemented global state management using Zustand to efficiently
+              handle user sessions, chat selection, message history, and file
+              transfer states.
+            </li>
+            <li>
+              Developed features like file upload/download with progress
+              tracking, intelligent message rendering by chat type (DM vs
+              Channel), and keyboard event handling.
+            </li>
+          </ul>
+        </section>
+
         <section className="w-full px-8 pb-4 h-auto rounded-3xl bg-zinc-700 text-cyan-50 dark:bg-stone-200 dark:text-zinc-900  hover:scale-105 transition-all ease-in-out duration-300 hover:border-4 hover:border-indigo-500 hover:shadow-2xl hover:shadow-violet-500">
           <div className="flex justify-center items-center gap-1 p-4">
             <h2 className="text-2xl font-semibold">Tech Notes Web App</h2>
@@ -65,26 +95,6 @@ const Projects = () => {
               authorization.
             </li>
             <li> Enhances workflow efficiency and accountability. </li>
-          </ul>
-        </section>
-        <section className="w-full px-8 pb-4 h-auto rounded-3xl bg-zinc-700 text-cyan-50 dark:bg-stone-200 dark:text-zinc-900 hover:scale-105 transition-all ease-in-out duration-300 hover:border-4 hover:border-indigo-500 hover:shadow-2xl hover:shadow-violet-500">
-          <div className="flex justify-center items-center gap-1 p-4">
-            <h2 className="text-2xl font-semibold">Baby Feed Web App</h2>
-            <a href="https://baby-feed-web-app.onrender.com" target="_blank">
-              <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
-            </a>
-          </div>
-          <ul className="list-disc text-left">
-            <li>
-              Created a React application that curates dietary recommendations
-              and feeding guidelines to infants based on user input such as age
-              & weight.
-            </li>
-            <li> Implemented a responsive design using Tailwind. </li>
-            <li>
-              Allows parents to easily find out the feeding suggestions based on
-              age & weight of the baby.
-            </li>
           </ul>
         </section>
       </div>
