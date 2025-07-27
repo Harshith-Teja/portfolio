@@ -15,7 +15,7 @@ const Intro = () => {
         Tailwind, and MongoDB—and I'm always eager to learn new technologies as
         needed.
       </p>
-      <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
+      {/* <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         Currently looking for opportunities where I can contribute to and learn
         from cutting-edge software development practices. My passion lies in
         understanding how large-scale systems are built, deployed, maintained,
@@ -28,11 +28,11 @@ const Intro = () => {
         tackle challenges, and grow as a software engineer. Looking to connect
         with like-minded engineers, mentors, and teams building impactful
         software at scale. Let’s build something great!
-      </p>
+      </p> */}
 
       <div className="p-6 flex max-w-[70%] m-auto justify-center items-center">
         <a
-          href="https://drive.google.com/file/d/17hSWFhm-ARZS_HLnIi_WorpbAkRc3EgX/view?usp=sharing"
+          href="https://drive.google.com/file/d/1FyU-hJirIePywcRTHsWeV2C0j95tyWBk/view?usp=sharing"
           target="_blank"
           aria-label="resume"
         >
