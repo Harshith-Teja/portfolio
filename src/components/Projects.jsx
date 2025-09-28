@@ -69,6 +69,40 @@ const Projects = () => {
 
         <section className="w-full px-8 pb-4 h-auto rounded-3xl bg-zinc-700 text-cyan-50 dark:bg-stone-200 dark:text-zinc-900  hover:scale-105 transition-all ease-in-out duration-300 hover:border-4 hover:border-indigo-500 hover:shadow-2xl hover:shadow-violet-500">
           <div className="flex justify-center items-center gap-1 p-4">
+            <h2 className="text-2xl font-semibold">Patient Management</h2>
+            <a
+              href="https://github.com/Harshith-Teja/Patient-Management-System"
+              target="_blank"
+            >
+              <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
+            </a>
+          </div>
+          <ul className="list-disc text-left">
+            <li>
+              Developed a microservices-based Patient Management System with
+              patient, billing, auth, analytics, and API gateway services.
+            </li>
+            <li>
+              Implemented REST APIs for client communication, gRPC with Protocol
+              Buffers for fast service-to-service calls, and Kafka for
+              event-driven analytics.
+            </li>
+            <li>
+              Secured services using Spring Security, JWT authentication, and
+              API Gateway for route protection against unauthorized access.
+            </li>
+            <li>
+              Used Postgres + Hibernate for data persistence, Swagger for api
+              documentation, and wrote integration tests for jwt token
+              validation to protect other routes.
+            </li>
+            <li>
+              Containerized services with Docker for deployment and scalability.
+            </li>
+          </ul>
+        </section>
+        <section className="w-full px-8 pb-4 col-start-2 h-auto rounded-3xl bg-zinc-700 text-cyan-50 dark:bg-stone-200 dark:text-zinc-900  hover:scale-105 transition-all ease-in-out duration-300 hover:border-4 hover:border-indigo-500 hover:shadow-2xl hover:shadow-violet-500">
+          <div className="flex justify-center items-center gap-1 p-4">
             <h2 className="text-2xl font-semibold">Tech Notes Web App</h2>
             <a
               href="https://tech-notes-frontend-jf5c.onrender.com"
