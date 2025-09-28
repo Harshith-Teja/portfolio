@@ -52,6 +52,11 @@ const Skills = () => {
           alt="Git Logo"
           className="h-32 w-36  hover:scale-110 transition-all duration-200 ease-in"
         />
+        <img
+          src="../../skills Logos/Spring-Boot.png"
+          alt="Spring Boot Logo"
+          className="h-auto w-[290px]  col-start-2 hover:scale-110 transition-all duration-200 ease-in"
+        />
       </div>
     </article>
   );
