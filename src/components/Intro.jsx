@@ -11,9 +11,9 @@ const Intro = () => {
       <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         I love situations where software development meets problem-solving. With
         hands-on experience in building full-stack web applications, I
-        specialize in React.js, TypeScript, JavaScript, Node.js, Express, Redux,
-        Tailwind, and MongoDB—and I'm always eager to learn new technologies as
-        needed.
+        specialize in React.js, TypeScript, JavaScript, Node.js, Java, Spring
+        Boot, Express, Redux, Tailwind, and MongoDB—and I'm always eager to
+        learn new technologies as needed.
       </p>
       {/* <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         Currently looking for opportunities where I can contribute to and learn

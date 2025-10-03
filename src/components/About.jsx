@@ -19,10 +19,10 @@ const About = () => {
           </p>
           <p className="mt-4">
             Now, I'm actively building projects using React.js, Typescript,
-            Redux, Nodejs, Express and MongoDB. I find joy in creating dynamic
-            and responsive web applications. I love solving new problems and
-            embracing new challenges everyday constantly seeking to enhance my
-            skills and deliver innovative solutions.
+            Java, Spring Boot Redux, Nodejs, Express and MongoDB. I find joy in
+            creating dynamic and responsive web applications. I love solving new
+            problems and embracing new challenges everyday constantly seeking to
+            enhance my skills and deliver innovative solutions.
           </p>
         </section>
       </div>
