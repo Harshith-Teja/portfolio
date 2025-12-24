@@ -9,11 +9,7 @@ const Intro = () => {
       </h1>
       <h1 className="p-4">An aspiring Software Developer</h1>
       <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
-        I love situations where software development meets problem-solving. With
-        hands-on experience in building full-stack web applications, I
-        specialize in React.js, TypeScript, JavaScript, Node.js, Java, Spring
-        Boot, Express, Redux, Tailwind, and MongoDB—and I'm always eager to
-        learn new technologies as needed.
+      I’m a computer science graduate who started my career through campus placement in 2024(1 year of experience). While my previous role revolved around designing and optimizing SQL queries, my passion has always been for software development, especially web technologies. Outside of work, I’ve been building several side projects using the MERN stack and Java Spring Boot. With hands-on experience in web development and great problem-solving skills in DSA, I can be a great asset to any team. I've completed my notice period recently, and I can join immediately.
       </p>
       {/* <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         Currently looking for opportunities where I can contribute to and learn
