@@ -15,6 +15,9 @@ const Projects = () => {
               <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
             </a>
           </div>
+          <h2 className="text-sm font-medium mb-2 border-black border-2 rounded-lg p-2">
+            React, Typescript, Express, Redux, Mongodb, Tailwind CSS
+          </h2>
           <ul className="list-disc text-left">
             <li>
               Built a full-stack blog application where users can write and
@@ -45,6 +48,9 @@ const Projects = () => {
               <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
             </a>
           </div>
+          <h2 className="text-sm font-medium mb-2 border-black border-2 rounded-lg p-2">
+            React, Express, Node, Zustand, Mongodb, Tailwind CSS
+          </h2>
           <ul className="list-disc text-left">
             <li>
               Developed a modern, real-time chat application supporting direct
@@ -77,6 +83,9 @@ const Projects = () => {
               <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
             </a>
           </div>
+          <h2 className="text-sm font-medium mb-2 border-black border-2 rounded-lg p-2">
+            Spring Boot, Docker, Kafka, Postgresql, Hibernate, Microservices
+          </h2>
           <ul className="list-disc text-left">
             <li>
               Developed a microservices-based Patient Management System with
@@ -111,6 +120,9 @@ const Projects = () => {
               <FontAwesomeIcon icon={faArrowUpRightFromSquare} />
             </a>
           </div>
+          <h2 className="text-sm font-medium mb-2 border-black border-2 rounded-lg p-2">
+            React, Express, Node, Mongodb, Redux
+          </h2>
           <ul className="list-disc text-left">
             <li>
               Developed a responsive full-stack web application for keeping
