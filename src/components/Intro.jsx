@@ -7,16 +7,18 @@ const Intro = () => {
         Hi, I'm
         <span className="text-indigo-600"> Harshith Teja</span>
       </h1>
-      <h1 className="p-4">An aspiring Software Developer</h1>
+      <h1 className="p-4">A Software Developer</h1>
       <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         I’m a computer science graduate who started my career through campus
-        placement in 2024(1 year of experience). While my previous role revolved
-        around designing and optimizing SQL queries, my passion has always been
-        for software development, especially web technologies. Outside of work,
-        I’ve been building several side projects using the MERN stack and Java
-        Spring Boot. With hands-on experience in web development and great
-        problem-solving skills in DSA, I can be a great asset to any team. I've
-        completed my notice period recently, and I can join immediately.
+        placement in 2024(1 yoe). While my previous role revolved around
+        designing and optimizing SQL queries, my passion has always been for
+        software development, especially web technologies. Outside of work, I’ve
+        been building several side projects using the MERN stack and Java Spring
+        Boot and also exploring open-source projects to understand the design
+        patterns and best practices in large codebases. With hands-on experience
+        in web development and great problem-solving skills in DSA, I can be a
+        great asset to any team. I've completed my notice period recently, and I
+        can join immediately.
       </p>
       {/* <p className="py-6 text-xl max-w-[70%] m-auto text-zinc-600 dark:text-cyan-50">
         Currently looking for opportunities where I can contribute to and learn
@@ -35,7 +37,7 @@ const Intro = () => {
 
       <div className="p-6 flex max-w-[70%] m-auto justify-center items-center">
         <a
-          href="https://drive.google.com/file/d/1O3oBNthousUCZbzPFZaAzkykWrnRGCzB/view?usp=sharing"
+          href="https://drive.google.com/file/d/1GcYBFMT3d8e1Z1CC7ZlGqbPoRb8JGIdQ/view?usp=sharing"
           target="_blank"
           aria-label="resume"
         >
