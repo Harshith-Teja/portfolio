@@ -6,14 +6,14 @@ const Experience = () => {
       <h1 className="md:flex md:justify-start text-4xl font-bold items-start">
         Experience
       </h1>
-      <div className="flex justify-between font-bold text-slate-700 text-lg">
+      <div className="flex flex-col xl:flex-row xl:justify-between font-bold text-slate-700 dark:text-cyan-50 text-lg">
         <span>
           Analyst - Payroll Data Reconciliation (Legacy to Oracle Fusion
           Migration)
         </span>
         <span>September 2024 – October 2025</span>
       </div>
-      <div className="flex justify-between font-bold text-slate-700 text-lg">
+      <div className="flex flex-col items-center xl:flex-row xl:justify-between font-bold text-slate-700 dark:text-cyan-50 text-lg">
         <span className="text-left">Deloitte</span>
         <span className="text-right">Bengaluru, Karnataka</span>
       </div>
