@@ -37,7 +37,7 @@ const Intro = () => {
 
       <div className="p-6 flex max-w-[70%] m-auto justify-center items-center">
         <a
-          href="https://drive.google.com/file/d/1GcYBFMT3d8e1Z1CC7ZlGqbPoRb8JGIdQ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1NS4hf4yI5l-uMO3kwzEEt6PO2-lCk7jt/view?usp=sharing"
           target="_blank"
           aria-label="resume"
         >
