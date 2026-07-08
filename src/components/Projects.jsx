@@ -24,10 +24,8 @@ const Projects = () => {
               share blogs on topics like programming, finance, travel, and more.
             </li>
             <li>
-              Implemented Gmail OAuth to get data from user’s repositories.
-            </li>
-            <li>
-              Used Json Web tokens(JWT) for authentication & authorization.
+              Integrated OpenAI APIs to generate concise ’TL;DR’ summaries for
+              long blog posts, enhancing user experience.
             </li>
             <li>
               Developed a dashboard to track post’s performance by visualizing
@@ -61,14 +59,14 @@ const Projects = () => {
               enabling instant message delivery and live chat updates.
             </li>
             <li>
-              Implemented global state management using Zustand to efficiently
-              handle user sessions, chat selection, message history, and file
-              transfer states.
+              Engineered an AI-powered channel summarization feature using
+              OpenAI APIs, allowing users to instantly catch up on missed
+              bi-directional socket communications.
             </li>
             <li>
-              Developed features like file upload/download with progress
-              tracking, intelligent message rendering by chat type (DM vs
-              Channel), and keyboard event handling.
+              Features include: file upload/download with progress tracking,
+              intelligent message rendering by chat type (DM vs Channel), and
+              keyboard event handling.
             </li>
           </ul>
         </section>
@@ -97,16 +95,14 @@ const Projects = () => {
               event-driven analytics.
             </li>
             <li>
-              Secured services using Spring Security, JWT authentication, and
-              API Gateway for route protection against unauthorized access.
+              Utilized AI prompt engineering to generate highly realistic,
+              synthetic patient datasets to test Kafka event-streaming and
+              analytics service.
             </li>
             <li>
-              Used Postgres + Hibernate for data persistence, Swagger for api
-              documentation, and wrote integration tests for jwt token
-              validation to protect other routes.
-            </li>
-            <li>
-              Containerized services with Docker for deployment and scalability.
+              Accelerated test-driven development by leveraging Large Language
+              Models (LLMs) to generate comprehensive edge-case integration
+              tests for JWT token validation.
             </li>
           </ul>
         </section>
